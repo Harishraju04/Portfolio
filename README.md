@@ -2,9 +2,7 @@
 
 A modern, responsive developer portfolio built using **React**, **Tailwind CSS**, and a clean UI/UX approach. It highlights my projects, tech skills, and contact details in a professional and minimalist layout.
 
-## 🚀 Live Demo
 
-[View Portfolio Live →](https://your-deployed-portfolio-link.com)
 
 ---
 
