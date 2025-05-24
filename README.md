@@ -21,10 +21,7 @@ A modern, responsive developer portfolio built using **React**, **Tailwind CSS**
 
 - **React**
 - **Tailwind CSS**
-- **JavaScript / TypeScript**
-- **PostgreSQL, MongoDB**
-- **Express.js**
-- **Next.js (optional)**
+- **JavaScript
 
 ---
 
