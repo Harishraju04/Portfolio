@@ -1,12 +1,39 @@
-# React + Vite
+# Harish Raghavendra – Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive developer portfolio built using **React**, **Tailwind CSS**, and a clean UI/UX approach. It highlights my projects, tech skills, and contact details in a professional and minimalist layout.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[View Portfolio Live →](https://your-deployed-portfolio-link.com)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+
+- ⚡ **Responsive** and modern design (desktop-first)
+- 🧠 Clean layout showcasing personal branding
+- 📁 Project cards with descriptions
+- 🛠 Skill icons with hover effects
+- 📩 Contact section for collaboration
+- 📄 Resume download link
+
+---
+
+## 🧰 Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **JavaScript / TypeScript**
+- **PostgreSQL, MongoDB**
+- **Express.js**
+- **Next.js (optional)**
+
+---
+
+## preview
+![image](https://github.com/user-attachments/assets/994841aa-bc5c-4fd0-b706-dbcdd47db000)
+![image](https://github.com/user-attachments/assets/026f41ce-5abc-4205-b7fe-024ef86fbd4c)
+![image](https://github.com/user-attachments/assets/5b702b6c-80c8-4893-a241-b98dc3607cf4)
+
+
+
